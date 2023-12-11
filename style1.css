@@ -179,39 +179,13 @@ main {
   font-size: 20px;
 }
 
-.content-container {
-  position: relative;
-  width: 80%;
-  margin: 50px auto;
-  border-radius: 20px;
-  background-color: #ffffff;
-  overflow: hidden;
-}
-
-
 .post-container {
   display: flex;
   flex-direction: column;
   align-items: center;
 }
 
-.post {
-  width: 50%;
-  margin: 20px 0;
-  padding: 15px;
-  background-color: #fff;
-  border-radius: 10px;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-  align-content: center;
-}
 
-
-
-.post-container {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-}
 
 .post {
   width: 80%;
